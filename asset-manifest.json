@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rayan-Hnide/static/css/main.c746f291.css",
+    "main.js": "/Rayan-Hnide/static/js/main.55c453d7.js",
+    "static/js/787.a96ae27f.chunk.js": "/Rayan-Hnide/static/js/787.a96ae27f.chunk.js",
+    "static/media/Success factors-rafiki.svg": "/Rayan-Hnide/static/media/Success factors-rafiki.61122e3410ce4a1d433e124f7036523a.svg",
+    "static/media/22.jpg": "/Rayan-Hnide/static/media/22.eb238316604fbcd80bd2.jpg",
+    "static/media/33.jpg": "/Rayan-Hnide/static/media/33.f24e496e0e312e3d2db5.jpg",
+    "static/media/Career progress-cuate.svg": "/Rayan-Hnide/static/media/Career progress-cuate.66e5e00e7cfe80261135e77af720c1f4.svg",
+    "static/media/11.jpg": "/Rayan-Hnide/static/media/11.5b9e1fc3dcc584f3e969.jpg",
+    "static/media/Winners-rafiki.svg": "/Rayan-Hnide/static/media/Winners-rafiki.790c4ac4c5b638e7bf2a414055f39284.svg",
+    "index.html": "/Rayan-Hnide/index.html",
+    "main.c746f291.css.map": "/Rayan-Hnide/static/css/main.c746f291.css.map",
+    "main.55c453d7.js.map": "/Rayan-Hnide/static/js/main.55c453d7.js.map",
+    "787.a96ae27f.chunk.js.map": "/Rayan-Hnide/static/js/787.a96ae27f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c746f291.css",
+    "static/js/main.55c453d7.js"
+  ]
+}
